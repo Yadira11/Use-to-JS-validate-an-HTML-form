@@ -1,0 +1,14 @@
+body{
+    background: black;
+}
+.container-fluid{
+    background: white;
+    widows: 100px;
+}
+#bancos{
+    width: 100%;
+}
+.card-header{
+    background-color: rgb(132, 210, 247);
+    
+}
